@@ -5,11 +5,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: brown;
+  color: rgb(236, 169, 169);
 }
 
 .bg-steel {
-  background-color:paleturquoise;
+  background-color:lime;
 }
 
 .site-header .navbar-nav .nav-link {
