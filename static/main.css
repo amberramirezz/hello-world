@@ -1,15 +1,16 @@
 body {
   background: #fafafa;
-  color: brown;
+  color: palevioletred;
   margin-top: 5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: rgb(236, 169, 169);
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .bg-steel {
-  background-color:lightsteelblue;
+  background-color:turquoise;
 }
 
 .site-header .navbar-nav .nav-link {
@@ -25,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .content-section {
-  background: #ffffff;
+  background: lightgoldenrodyellow;
   padding: 10px 20px;
   border: 1px solid #dddddd;
   border-radius: 3px;
