@@ -1,6 +1,6 @@
 body {
   background: #fafafa;
-  color: #333333;
+  color: brown;
   margin-top: 5rem;
 }
 
@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-steel {
-  background-color:purple;
+  background-color:turquoise;
 }
 
 .site-header .navbar-nav .nav-link {
