@@ -31,7 +31,7 @@ def hello_world():
     
 @app.route("/second_page")
 def second_page():
-    return render_template('second_page.html', subtitle='Second Page', text='This is the second page')
+    return render_template('register.html', subtitle='Register', text='This is the second page')
 
 @app.route("/register", methods=['GET', 'POST'])
 def register():
