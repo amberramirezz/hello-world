@@ -29,7 +29,7 @@ with app.app_context():
 def hello_world():
     return render_template('home.html', subtitle='Home Page', text='This is the home page')
     
-@app.route("/second_page")
+@app.route("/register.html")
 def second_page():
     return render_template('register.html', subtitle='Register', text='This is the second page')
 
